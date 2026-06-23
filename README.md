@@ -48,7 +48,6 @@ I don't promise perfect code, but I promise that every project is a step forward
 ### 📫 Контакты
 
 - **Почта:** [temacom159@gmail.com](mailto:temacom159@gmail.com)
-- **Telegram:** [добавь ссылку]
 
 ### ⚡ Сейчас в работе
 
