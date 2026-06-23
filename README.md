@@ -4,7 +4,7 @@
 
 ---
 
-## 🇬🇧 English
+## English
 
 ### 🧭 About Me
 
@@ -31,7 +31,7 @@ I don't promise perfect code, but I promise that every project is a step forward
 
 ---
 
-## 🇷🇺 Русский
+## Русский
 
 ### 🧭 Обо мне
 
