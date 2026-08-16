@@ -1,22 +1,37 @@
 <div align="center">
 
+<img src="banner.svg" width="100%" alt="Tema aka TrothByte banner">
+
 # 👋 I'm Tema — aka TrothByte
 
 ### *I measured the earth. Now I'm building the digital world — and dreaming bigger than both.*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6EC6FF&width=540&lines=Land+Surveyor+%E2%86%92+Dreamer+%E2%86%92+Builder;AI+is+the+new+basic+skill;Making+the+world+better,+one+commit+at+a+time)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&width=540&lines=Land+Surveyor+%E2%86%92+Dreamer+%E2%86%92+Builder;AI+is+the+new+basic+skill;Making+the+world+better,+one+commit+at+a+time)](https://github.com/DenverCoder1/readme-typing-svg)
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://en.cppreference.com/)
-[![Rust](https://img.shields.io/badge/Rust-dea584?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge&logo=openai&logoColor=white)]()
-[![Low-level Engineering](https://img.shields.io/badge/Low--level%20Engineering-6E40C9?style=for-the-badge)](https://github.com/TrothByte/low-level-skills-trothbyte)
+<br>
+
+[![Python](https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C%2B%2B-7C3AED?style=for-the-badge&logo=cplusplus&logoColor=white)](https://en.cppreference.com/)
+[![Rust](https://img.shields.io/badge/Rust-A78BFA?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-C084FC?style=for-the-badge&logo=openai&logoColor=white)]()
+[![Low-level Engineering](https://img.shields.io/badge/Low--level%20Engineering-D946EF?style=for-the-badge)](https://github.com/TrothByte/low-level-skills-trothbyte)
+
+<br>
+
+[![Project](https://img.shields.io/badge/Project-Low--level%20skills%20TrothByte-9333EA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TrothByte/low-level-skills-trothbyte)
+[![Skills](https://img.shields.io/badge/skills-124-8B5CF6?style=for-the-badge)](https://github.com/TrothByte/low-level-skills-trothbyte)
+[![Articles](https://img.shields.io/badge/dev.to-articles-A78BFA?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/trothbyte)
+[![Email](https://img.shields.io/badge/Email-temacom159%40gmail.com-F0ABFC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:temacom159@gmail.com)
 
 </div>
 
+> [!IMPORTANT]
+> A dream is not a destination. It's a direction — and I'm walking in mine with everything I've got.
+
 ---
 
-## English 🇬🇧
+<details open>
+<summary><b>🇬🇧 English — about me</b></summary>
 
 ### 🚀 The Dreamer Behind the Screen
 
@@ -30,9 +45,6 @@ Some people look at a bug and see a problem. I look at it and see a promise — 
 - 🛠️ I'm building **[TrothByte](https://github.com/TrothByte/low-level-skills-trothbyte)** — a library that teaches AI agents to write code that isn't just correct, but *safe and verified*.
 - 💪 I don't promise perfect code. I promise effort, honesty, and that every step makes the world a little better.
 
-> [!IMPORTANT]
-> A dream is not a destination. It's a direction — and I'm walking in mine with everything I've got.
-
 ### 🗺️ What You'll Find Here
 
 My projects — learning experiments, small adventures, and things I hope become useful to others. Every repository is a step forward, and I'm proud of every single one.
@@ -41,9 +53,10 @@ My projects — learning experiments, small adventures, and things I hope become
 
 - **Email:** [temacom159@gmail.com](mailto:temacom159@gmail.com)
 
----
+</details>
 
-## Русский 🇷🇺
+<details>
+<summary><b>🇷🇺 Русский — обо мне</b></summary>
 
 ### 🚀 Мечтатель за экраном
 
@@ -57,9 +70,6 @@ My projects — learning experiments, small adventures, and things I hope become
 - 🛠️ Я строю **[TrothByte](https://github.com/TrothByte/low-level-skills-trothbyte)** — библиотеку навыков, которая учит ИИ-агентов писать код, который не просто компилируется, а *безопасен и проверен*.
 - 💪 Я не обещаю идеального кода. Я обещаю усилия, честность и то, что каждый шаг делает мир чуть лучше.
 
-> [!IMPORTANT]
-> Мечта — это не пункт назначения. Это направление — и я иду в своём со всеми силами.
-
 ### 🗺️ Что вы здесь найдёте
 
 Мои проекты — учебные эксперименты, маленькие приключения и то, что, надеюсь, пригодится другим. Каждый репозиторий — шаг вперёд, и я горжусь каждым из них.
@@ -68,9 +78,15 @@ My projects — learning experiments, small adventures, and things I hope become
 
 - **Почта:** [temacom159@gmail.com](mailto:temacom159@gmail.com)
 
+</details>
+
 ---
 
 <div align="center">
+
+<sub>Latest writing on [dev.to](https://dev.to/trothbyte) · main project: [Low-level skills TrothByte](https://github.com/TrothByte/low-level-skills-trothbyte)</sub>
+
+<br>
 
 *Made with 💛, stubborn curiosity, and an unshakable belief that the world can be better.*
 
