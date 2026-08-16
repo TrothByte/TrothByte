@@ -145,7 +145,8 @@ My projects — learning experiments, small adventures, and things I hope become
 
 ## ✍️ Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- 💜 [You can&#39;t trust assembly an AI wrote. Here&#39;s the 3-command gate.](https://dev.to/trothbyte/you-cant-trust-assembly-an-ai-wrote-heres-the-3-command-gate-4ige)
+- ✨ [We catalogued 55+ AI-agent failures in low-level code — and shipped 124 verified skills to fix them](https://dev.to/trothbyte/we-catalogued-55-ai-agent-failures-in-low-level-code-and-shipped-124-verified-skills-to-fix-them-369l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
