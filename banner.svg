@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B0716"/>
+      <stop offset="0.55" stop-color="#150A2E"/>
+      <stop offset="1" stop-color="#1E1137"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#DDD6FE"/>
+      <stop offset="0.5" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#F0ABFC"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0.85" cy="0.15" r="0.6">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.1" cy="0.9" r="0.6">
+      <stop offset="0" stop-color="#D946EF" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#D946EF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <style>
+    @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.7; } }
+    .glow { animation: pulse 6s ease-in-out infinite; }
+  </style>
+
+  <rect width="1200" height="240" fill="url(#bgGrad)"/>
+  <rect class="glow" width="1200" height="240" fill="url(#glow1)"/>
+  <rect class="glow" width="1200" height="240" fill="url(#glow2)"/>
+  <rect x="0" y="0" width="1200" height="6" fill="url(#textGrad)"/>
+
+  <text x="80" y="115" font-family="system-ui, sans-serif" font-size="58" font-weight="700" fill="url(#textGrad)">Tema — aka TrothByte</text>
+  <text x="80" y="158" font-family="system-ui, sans-serif" font-size="24" fill="#C4B5FD">Land surveyor → Dreamer → Builder</text>
+  <text x="80" y="200" font-family="system-ui, sans-serif" font-size="17" fill="#8B8FA8">AI is the new basic skill · Making the world better, one commit at a time</text>
+  <text x="80" y="226" font-family="system-ui, sans-serif" font-size="14" fill="#6D6F8A">Building github.com/TrothByte/low-level-skills-trothbyte · 124 verified skills for AI coding agents</text>
+</svg>
