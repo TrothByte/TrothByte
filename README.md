@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" width="100%" alt="Tema aka TrothByte banner">
+<img src="banner.svg" width="100%" alt="Tema aka TrothByte — the journey banner">
 
 # 👋 I'm Tema — aka TrothByte
 
@@ -8,7 +8,26 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&width=540&lines=Land+Surveyor+%E2%86%92+Dreamer+%E2%86%92+Builder;AI+is+the+new+basic+skill;Making+the+world+better,+one+commit+at+a+time)](https://github.com/DenverCoder1/readme-typing-svg)
 
+</div>
+
+> [!IMPORTANT]
+> A dream is not a destination. It's a direction — and I'm walking in mine with everything I've got.
+
+```text
+$ whoami
+land surveyor → dreamer → builder
+
+$ cat ~/.beliefs
+AI is the new basic skill
+verify over vibes — if it's not verified, it's a hypothesis
+
+$ ./dream --persist --intensity=10
+running... every commit makes the world a little better.
+```
+
 <br>
+
+<div align="center">
 
 [![Python](https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C%2B%2B-7C3AED?style=for-the-badge&logo=cplusplus&logoColor=white)](https://en.cppreference.com/)
@@ -16,17 +35,59 @@
 [![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-C084FC?style=for-the-badge&logo=openai&logoColor=white)]()
 [![Low-level Engineering](https://img.shields.io/badge/Low--level%20Engineering-D946EF?style=for-the-badge)](https://github.com/TrothByte/low-level-skills-trothbyte)
 
-<br>
-
 [![Project](https://img.shields.io/badge/Project-Low--level%20skills%20TrothByte-9333EA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TrothByte/low-level-skills-trothbyte)
 [![Skills](https://img.shields.io/badge/skills-124-8B5CF6?style=for-the-badge)](https://github.com/TrothByte/low-level-skills-trothbyte)
-[![Articles](https://img.shields.io/badge/dev.to-articles-A78BFA?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/trothbyte)
 [![Email](https://img.shields.io/badge/Email-temacom159%40gmail.com-F0ABFC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:temacom159@gmail.com)
 
 </div>
 
-> [!IMPORTANT]
-> A dream is not a destination. It's a direction — and I'm walking in mine with everything I've got.
+<!-- GitHub stats — dark variant shows only in dark theme, light variant only in light theme -->
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TrothByte&show_icons=true&include_all_commits=true&title_color=A78BFA&icon_color=D946EF&text_color=C4B5FD&bg_color=0B0716&border_color=2E2157&hide_border=true#gh-dark-mode-only" height="180" alt="GitHub stats (dark)">
+<img src="https://github-readme-stats.vercel.app/api?username=TrothByte&show_icons=true&include_all_commits=true&title_color=7C3AED&icon_color=D946EF&text_color=4C1D95&bg_color=FFFFFF&border_color=E9D5FF#gh-light-mode-only" height="180" alt="GitHub stats (light)">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrothByte&layout=compact&langs_count=6&title_color=A78BFA&text_color=C4B5FD&bg_color=0B0716&border_color=2E2157&hide_border=true#gh-dark-mode-only" height="180" alt="Top languages (dark)">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrothByte&layout=compact&langs_count=6&title_color=7C3AED&text_color=4C1D95&bg_color=FFFFFF&border_color=E9D5FF#gh-light-mode-only" height="180" alt="Top languages (light)">
+
+</div>
+
+<details>
+<summary><b>🏆 Trophy shelf</b></summary>
+
+<br>
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=TrothByte&theme=radical&no-frame=true&row=1&column=7)
+
+</div>
+
+</details>
+
+<!-- about cards — a table acting as cards -->
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <b>🎯 Focus</b><br>
+      <sub>low-level engineering · compilers · memory · verification</sub>
+    </td>
+    <td align="center" width="50%">
+      <b>🔭 Exploring</b><br>
+      <sub>C++ · Rust · AI coding agents · everything that makes machines honest</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>🌱 Growing</b><br>
+      <sub>from land surveying to software — one failed build at a time</sub>
+    </td>
+    <td align="center">
+      <b>✨ Building</b><br>
+      <sub>a library that teaches AI agents safe &amp; verified low-level code</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -82,12 +143,19 @@ My projects — learning experiments, small adventures, and things I hope become
 
 ---
 
+## ✍️ Latest from dev.to
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 <div align="center">
 
-<sub>Latest writing on [dev.to](https://dev.to/trothbyte) · main project: [Low-level skills TrothByte](https://github.com/TrothByte/low-level-skills-trothbyte)</sub>
+<sub>main project: [Low-level skills TrothByte](https://github.com/TrothByte/low-level-skills-trothbyte) · 124 verified skills for AI coding agents · MIT</sub>
 
 <br>
 
-*Made with 💛, stubborn curiosity, and an unshakable belief that the world can be better.*
+*Made with 💜, stubborn curiosity, and an unshakable belief that the world can be better.*
 
 </div>
